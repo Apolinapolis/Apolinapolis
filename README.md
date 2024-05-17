@@ -1,6 +1,6 @@
 - 🧞‍♂️ Hi, I’m Dima
-- 👨🏽‍💻 I’m frontend developer and AI ingener ✨✨
-- ❤️‍🔥 love working hard, traininng hard 💪🏾, travel & Dancehall🇯🇲
+- 👨🏽‍💻 Frontend developer✨✨
+- ❤️‍🔥 love working hard, traininng hard 💪🏾 Travel & Dancehall🇯🇲
 - 📫 You can write me to Larra12@ya.ru
 
 <!---
