@@ -1,4 +1,4 @@
-- 👨🏽‍💻 Hello! I’m Dima - Frontend developer 🧞‍♂️
+- 👨🏽‍💻 Hello! I’m Dima - UI developer 🧞‍♂️
 - 💪🏾 I love working hard 😈
 - 💪🏾 Traininng hard 😈
 - 🌏 Travel 🌏 & 🇯🇲Dancehall🇯🇲
