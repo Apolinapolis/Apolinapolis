@@ -3,3 +3,4 @@
 - 💪🏾 Traininng hard 😈
 - 🌏 Travel 🌏 & 🇯🇲Dancehall🇯🇲
 - 📫 You can write me to Larra12@ya.ru
+- <img src="https://github.com/Apolinapolis/Apolinapolis/blob/main/download_24110.png" width="100">
