@@ -1,22 +1,32 @@
-<div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwN25jNHR6c2x4b2FuaWZ6cmFidmh3OHVwZHpucGJwdWZ2cHcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif" alt="gif" width="200">
+
+<div id="codingGiv" align="center">
+<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611icjp1zjwo5djyejwr6z220oorgaoru356wz90qz5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Как я работаю">
+  <h1>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет ;)
+</h1>
 </div>
-<div id="badges" align="center">
-  <a href="https://t.me/apolinapolis">
-    <img src="https://img.shields.io/badge/Write me-indigo?style=for-the-badge&logo=telegram&logoColor=white" alt="TG-link">
-  </a>
+
+- 🧞‍♂️ Меня зовут Дима и я разработчик)
+- 👨🏽‍💻 Создаю удобные и оптимизированные web приложения.
+- ❤️‍🔥 Из всех своих увлечений я особенно выделяю 🇯🇲Dancehall🇯🇲
+- 📫 Хочешь пообщаться? Пиши в Телеграм - <a href="https://t.me/apolinapolis"><img src="https://img.shields.io/badge/Write me-indigo?style=plastic&logo=telegram&logoColor=white" alt="TG-link"></a>
+
+:hammer_and_wrench: Мои инструменты :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;м
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-<div id="VisitsCounter" align="center">
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinapolis&layout=compact&theme=vision-friendly-dark)]
+<br>
+<div id="VisitsCounter" align="left">
 <img src="https://komarev.com/ghpvc/?username=apolinapolis&style=flat-square&color=blue" alt="VisitsCounter"/>
 </div>
-<h1>
-  Привет ;)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-- 👨🏽‍💻 Hello! I’m Dima - UI developer 🧞‍♂️
-- 💪🏾 I love working hard 😈
-- 💪🏾 Traininng hard 😈
-- 🌏 Travel 🌏 & 🇯🇲Dancehall🇯🇲
-- 📫 You can write me to Larra12@ya.ru
-- <img src="https://github.com/Apolinapolis/Apolinapolis/blob/main/download_24110.png" width="100"><img src="https://github.com/Apolinapolis/Apolinapolis/blob/main/css.svg" width="100"><img src="https://github.com/Apolinapolis/Apolinapolis/blob/main/js.png" width="100">
