@@ -1,3 +1,15 @@
+<div id="header" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwN25jNHR6c2x4b2FuaWZ6cmFidmh3OHVwZHpucGJwdWZ2cHcweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif" alt="gif" width="200">
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/apolinapolis">
+    <img src="https://img.shields.io/badge/Write me-indigo?style=for-the-badge&logo=telegram&logoColor=white" alt="TG-link">
+  </a>
+</div>
+<div id="VisitsCounter" align="center">
+<img src="https://komarev.com/ghpvc/?username=apolinapolis&style=flat-square&color=blue" alt="VisitsCounter"/>
+</div>
+
 - 👨🏽‍💻 Hello! I’m Dima - UI developer 🧞‍♂️
 - 💪🏾 I love working hard 😈
 - 💪🏾 Traininng hard 😈
