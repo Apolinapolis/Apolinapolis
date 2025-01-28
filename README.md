@@ -30,8 +30,6 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinapolis&layout=compact&theme=vision-friendly-dark)
-<br>
 <div id="VisitsCounter" align="left">
 <img src="https://komarev.com/ghpvc/?username=apolinapolis&style=flat-square&color=blue" alt="VisitsCounter"/>
 </div>
