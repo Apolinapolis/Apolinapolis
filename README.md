@@ -6,9 +6,7 @@
 </h1>
 </div>
 
-- 🧞‍♂️ Меня зовут Дима и я разработчик :)
 - 👨🏽‍💻 Создаю удобные и оптимизированные web приложения.
-- ❤️‍🔥 Из всех своих увлечений я особенно выделяю 🇯🇲Dancehall🇯🇲
 - 📫 Мой Телеграм - <a href="https://t.me/apolinapolis"><img src="https://img.shields.io/badge/Write me-indigo?style=plastic&logo=telegram&logoColor=white" alt="TG-link"></a>
 
 :hammer_and_wrench: Мои инструменты :
