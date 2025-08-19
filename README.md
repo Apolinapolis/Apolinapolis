@@ -1,13 +1,10 @@
 
 <div id="codingGiv" align="center">
 <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611icjp1zjwo5djyejwr6z220oorgaoru356wz90qz5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Как я работаю">
-  <h1>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Привет ;)
-</h1>
-</div>
+  <h1> hello ;) </h1></div>
 
-- 👨🏽‍💻 Создаю удобные и оптимизированные web приложения.
-- 📫 Мой Телеграм - <a href="https://t.me/apolinapolis"><img src="https://img.shields.io/badge/Write me-indigo?style=plastic&logo=telegram&logoColor=white" alt="TG-link"></a>
+- 👨🏽‍💻 i'm software tester.
+- 📫 you can write me on telegram- <a href="https://t.me/apolinapolis"><img src="https://img.shields.io/badge/Write me-indigo?style=plastic&logo=telegram&logoColor=white" alt="TG-link"></a>
 
 :hammer_and_wrench: Мои инструменты :
 <div>
