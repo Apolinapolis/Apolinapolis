@@ -1,6 +1,6 @@
 # Apolinapolis
 
-### 👨‍💻 QA Engineer | Python & JS Developer
+### 👨‍💻 QA Engineer
 
 - 🔍 Работаю в тестировании backend  
 - 🐍 Пишу автотесты на **Python / JS (pytest, appium, selenium requests)**  
