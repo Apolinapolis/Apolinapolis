@@ -1,12 +1,11 @@
 # Apolinapolis
 
-### 👨‍💻 QA Engineer
-
-- 🔍 Работаю в тестировании backend  
-- 🐍 Пишу автотесты на **Python / JS (pytest, appium, selenium requests)**  
+### 👨‍💻 QA Automation Engineer
+ 
+- 🐍 Пишу тесты на **Python (pytest, appium, selenium requests)**  
 - ⚡ Есть опыт frontend разработки на **React / Redux**
 - ⚡ Есть опыт backend разработки c **FastAPI**
-- 🚀 Интересуюсь по большей части backend и Web3, развиваюсь в этом направлении
+- 🚀 Интересуюсь по большей части backend и Web3, AI integration и двигаюсь в этом направлении
 
 ---
 
