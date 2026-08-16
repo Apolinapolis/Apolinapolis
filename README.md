@@ -21,7 +21,6 @@
 ---
 
 ### 📫 Контакты
-- Визитка: [apolinapolis.ru](https://apolinapolis.ru)
 - Telegram: [@apolinapolis](https://t.me/apolinapolis)  
 - Email: apolinapolis@gmail.com
 
