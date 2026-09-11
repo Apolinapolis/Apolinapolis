@@ -3,7 +3,7 @@
 ### 👨‍💻 Software Engineer / SDET
  
 - ⚡ Fullstack разработка Python / TypeScript
-- 🐍 Автоматизация тестирования **Python (pytest, appium, selenium requests)**  
+- 🐍 Автоматизация тестирования **Python (pytest, requests)**  
 - 🚀 Вектор - backend, Web3, AI integration
 
 ---
