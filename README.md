@@ -1,15 +1,14 @@
 # Apolinapolis
 
-### 👨‍💻 Software Engineer / SDET
+### 👨‍💻 SDET (crypto)
  
-- ⚡ Fullstack разработка Python / TypeScript
-- 🐍 Автоматизация тестирования **Python (pytest, requests)**  
-- 🚀 Вектор - backend, Web3, AI integration
+- 🐍 Автоматизация тестирования Python / Go
+- 🚀 Аудит безопасности криптобирж
 
 ---
 
 ### 🛠 Навыки и инструменты
-- Языки: **Python, JavaScript, TypeScript, SQL**  
+- Языки: **GO, Python, JavaScript, TypeScript, SQL**  
 - Тестирование: **Pytest, Appium, Selenium, Postman**  
 - CI/CD: **Jenkins, GitHub Actions**  
 - DevOps: **Docker, Kubernetes**  
